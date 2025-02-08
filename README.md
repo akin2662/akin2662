@@ -1,3 +1,9 @@
+# Advait Kinikar 
+
+## Who am I?
+
+
+
 - 👋 Hi, I’m @akin2662
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
