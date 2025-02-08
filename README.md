@@ -1,8 +1,5 @@
-# Advait Kinikar 
-
-## Who am I?
-
-
+# 🤖🤯🖥️ Robotics, AI & Too Many Open Terminal Windows
+Hey! I'm Advait Kinikar, a **Robotics Engineer** in making, an **AI enthusiast**  and  always a professional **debugger of my own code**. Currently pursuing my **Master’s in Robotics at the University of Maryland, College Park**. I have hands-on experience with **robotic perception, planning, and control** and have spent countless hours my fine-tuning **Gazebo** simulations. 
 
 - 👋 Hi, I’m @akin2662
 - 👀 I’m interested in ...
