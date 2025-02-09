@@ -18,37 +18,37 @@ Hey! I'm Advait Kinikar, a **Robotics Engineer** in making, an **AI enthusiast**
   <strong >Do I have skills?</strong>
 </p>
 
-🤖 Robotics & Autonomous Systems
+🤖 ***Robotics & Autonomous Systems***
 
-* Kinematics & Dynamics: I have a strong understanding of forward/inverse kinematics, differential kinematics, and dynamic modeling of robotic systems (Lagrangian & Newton-Euler methods).
+* **Kinematics & Dynamics**: I have a strong understanding of forward/inverse kinematics, differential kinematics, and dynamic modeling of robotic systems (Lagrangian & Newton-Euler methods).
 
-* Motion Planning & Control: I have implemented Artificial Potential Fields (APF) for obstacle avoidance, Probabilistic Roadmaps (PRM) for path planning, and PID controllers for motion control in mobile robots.
+* **Motion Planning & Control**: I have implemented Artificial Potential Fields (APF) for obstacle avoidance, Probabilistic Roadmaps (PRM) for path planning, and PID controllers for motion control in mobile robots.
 
-* Perception: I have used OpenCV for image processing, object detection, and feature extraction
+* **Perception**: I have used OpenCV for image processing, object detection, and feature extraction
 
-🔄 Robot Simulation & Middleware
+🔄 ***Robot Simulation & Middleware***
 
-* ROS2: I have developed modular robotic systems in ROS2 using nodes, topics, services, actions, and tf2 transformations for communication.
+* **ROS2**: I have developed modular robotic systems in ROS2 using nodes, topics, services, actions, and tf2 transformations for communication.
 
-* Gazebo Simulation: I have built realistic physics-based simulations for robot testing
+* **Gazebo Simulation**: I have built realistic physics-based simulations for robot testing
 
-* MoveIt!2: I have experience with motion planning and execution for robotic arms
+* **MoveIt!2**: I have experience with motion planning and execution for robotic arms
 
-🤖 Machine Learning & AI for Robotics
+🤖 ***Machine Learning & AI for Robotics***
 
-* Supervised & Unsupervised Learning: I have implemented SVM, SOM, PCA, Logistic Regression algorithms for pattern recognition and anomaly detection.
+* **Supervised & Unsupervised Learning**: I have implemented SVM, SOM, PCA, Logistic Regression algorithms for pattern recognition and anomaly detection.
 
-* Deep Learning: I have CNNs (Convolutional Neural Networks) for image processing and perception tasks, and experimented with RNNs/LSTMs for sequential data modeling.
+* **Deep Learning**: I have CNNs (Convolutional Neural Networks) for image processing and perception tasks, and experimented with RNNs/LSTMs for sequential data modeling.
 
-* Reinforcement Learning: Developed AI agents DQN and PPO for strategy-based decision-making.
+* **Reinforcement Learning**: Developed AI agents DQN and PPO for strategy-based decision-making.
 
-🛠️ Programming & Software Development
+🛠️ ***Programming & Software Development***
 
-* Python & C++:  I have strong Python skills for ML, AI, and robotics development; currently improving C++ for real-time robotics applications.
+* **Python & C++**:  I have strong Python skills for ML, AI, and robotics development; currently improving C++ for real-time robotics applications.
 
-* SymPy, NumPy, OpenCV, PyTorch, TensorFlow: I have used these and more libraries for robotics development, ML model training, computer vision, and deep learning applications.
+* **SymPy, NumPy, OpenCV, PyTorch, TensorFlow**: I have used these and more libraries for robotics development, ML model training, computer vision, and deep learning applications.
 
-* Pygame & Game Development: I have developed a turn-based strategy game using custom AI agents trained via RL.
+* **Pygame & Game Development**: I have developed a turn-based strategy game using custom AI agents trained via RL.
 
 <p align="center">
   <img src="https://github.com/akin2662/meme/blob/main/connect.jpg" width="300">
