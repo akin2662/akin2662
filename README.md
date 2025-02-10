@@ -36,7 +36,7 @@ Hey! I'm Advait Kinikar, a **Robotics Engineer** in making, an **AI enthusiast**
 
 🤖 ***Machine Learning & AI for Robotics***
 
-* **Supervised & Unsupervised Learning**: I have implemented SVM, SOM, PCA, Logistic Regression algorithms for pattern recognition and anomaly detection.
+* **Supervised & Unsupervised Learning**: I have implemented KNN,SVM, SOM, PCA, Logistic Regression algorithms for pattern recognition and anomaly detection.
 
 * **Deep Learning**: I have CNNs (Convolutional Neural Networks) for image processing and perception tasks, and experimented with RNNs/LSTMs for sequential data modeling.
 
